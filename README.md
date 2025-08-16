@@ -11,9 +11,13 @@ The Smart Quote Generator API is a simple backend project built using Flask (Pyt
 
 ## Features:
 *Home route with project info
+
 *Random motivational quote generator
+
 *Fast and lightweight (Flask based)
+
 *Can be extended easily
+
 *Beginner friendly Flask backend project
 
 ## Technologies Used:
