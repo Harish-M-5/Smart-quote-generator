@@ -31,6 +31,4 @@ Concepts Used:REST API basics
 <img width="1920" height="1080" alt="Screenshot 2025-08-16 122935" src="https://github.com/user-attachments/assets/99379fb4-f897-4698-82b5-c96095712d84" />
 <img width="1920" height="1080" alt="Screenshot 2025-08-16 122840" src="https://github.com/user-attachments/assets/87222ba6-b508-4761-a438-412c11435920" />
 
-Random library in Python
 
-Debug mode serve
