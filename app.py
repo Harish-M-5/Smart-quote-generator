@@ -2,7 +2,6 @@ from flask import Flask
 
 app = Flask(__name__)
 
-# Small list of motivational quotes
 quotes = [
     "Believe in yourself, success will follow.",
     "Hard work beats talent when talent doesn’t work hard.",
@@ -22,3 +21,4 @@ def get_quote():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
