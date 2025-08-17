@@ -5,7 +5,7 @@ The Smart Quote Generator API is a simple backend project built using Python (Fl
 
 *Root endpoint (/) gives an introduction about the API usage.
 
-*/quote endpoint randomly selects and returns a motivational quote from a predefined list.
+*/quote endpoint randomly selects and returns a motivational quote from a predefined lists.
 
 *This is a lightweight Python backend project that demonstrates REST API concepts in a beginner-friendly way.
 
