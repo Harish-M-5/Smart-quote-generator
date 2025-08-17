@@ -1,5 +1,5 @@
 # Smart-quote-generator
-The Smart Quote Generator API is a simple backend project built using Python (Flask)
+The Smart Quote Generator API is a simple backend project built using Python(flask)
 ## Overview:
 *API server is created using Flask.
 
